@@ -1,0 +1,4 @@
+[07-May-2018 13:09:00 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\Converter' not found in /home/goldernc/public_html/src/BaseConverter.php on line 25
+[07-May-2018 13:09:04 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\Converter' not found in /home/goldernc/public_html/src/BaseConverter.php on line 25
+[07-May-2018 13:09:06 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\Converter' not found in /home/goldernc/public_html/src/DecimalConverter.php on line 18
+[08-May-2018 11:25:59 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\Converter' not found in /home/goldernc/public_html/src/ReplaceConverter.php on line 29

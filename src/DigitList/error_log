@@ -1,0 +1,4 @@
+[08-May-2018 11:20:56 America/Sao_Paulo] PHP Fatal error:  Class 'Riimu\Kit\BaseConversion\DigitList\AbstractDigitList' not found in /home/goldernc/public_html/src/DigitList/IntegerDigitList.php on line 12
+[08-May-2018 11:24:07 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\DigitList\DigitList' not found in /home/goldernc/public_html/src/DigitList/AbstractDigitList.php on line 12
+[08-May-2018 11:24:11 America/Sao_Paulo] PHP Fatal error:  Class 'Riimu\Kit\BaseConversion\DigitList\AbstractDigitList' not found in /home/goldernc/public_html/src/DigitList/ArrayDigitList.php on line 12
+[08-May-2018 11:24:16 America/Sao_Paulo] PHP Fatal error:  Interface 'Riimu\Kit\BaseConversion\DigitList\DigitList' not found in /home/goldernc/public_html/src/DigitList/AbstractDigitList.php on line 12
